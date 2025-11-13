@@ -9,6 +9,6 @@
 
 ### Tracker Page
 ![Tracker](tracker.png)
-![Tracker](tarcker_run_background.png)
+![Tracker](tracker_run_background.png)
 ![Tracker](complete_job.png)
 
