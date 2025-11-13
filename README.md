@@ -8,7 +8,7 @@
 ![Job](job_details2.png)
 
 ### Tracker Page
-![Tracker](tracker.png)
+![Tracker](tarcker.png)
 ![Tracker](tracker_run_background.png)
 ![Tracker](complete_job.png)
 
